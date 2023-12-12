@@ -1,5 +1,5 @@
 # GitHub Actions Fundamentals
-Test
+Test Now Changes
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
